@@ -7,8 +7,15 @@
   I'm Davide, Front End developer from <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/ItalyFlag.svg" width="14px"/> <b>Milan, Italy</b>.</p><br>
 </p>
 
+<<<<<<< HEAD
 <br><br><br><br><br>
 
+=======
+<p align="right">
+	
+<p>Hey there, welcome!</br>
+I'm Davide, Front End developer from <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/ItalyFlag.svg" width="13px"/> <b>Milan, Italy</b>.</p>
+>>>>>>> f030213d683ac4ddb37d5bbf32623eee8acd8db8
 <h2>Things I code with</h2>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -21,10 +28,9 @@
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
-<br>
-
 <h2>Where to find me</h2>
 <p>
+<<<<<<< HEAD
   <a href="https://github.com/Th3Wall" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://codepen.io/th3wall" target="_blank"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mandelli-davide/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -41,3 +47,8 @@
 <span align="right">
 ![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Th3Wall&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
 </span>
+=======
+<a href="https://github.com/Th3Wall" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mandelli-davide/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+>>>>>>> f030213d683ac4ddb37d5bbf32623eee8acd8db8
