@@ -8,7 +8,7 @@
 <p align="right">
 	
 <p>Hey there, welcome!</br>
-I'm Davide, Front End developer from <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/ItalyFlag.svg" width="13px"/> <b>Milan, Italy</b>.</p><br>
+I'm Davide, Front End developer from <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/ItalyFlag.svg" width="13px"/> <b>Milan, Italy</b>.</p>
 <h2>Things I code with</h2>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -21,8 +21,6 @@ I'm Davide, Front End developer from <img src="https://cdn.jsdelivr.net/gh/Th3Wa
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
-<br>
-
 <h2>Where to find me</h2>
 <p>
 <a href="https://github.com/Th3Wall" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
