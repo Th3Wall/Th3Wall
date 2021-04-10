@@ -29,7 +29,6 @@
   <a href="https://www.instagram.com/davideemandelli/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:mandellidavide.95@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-<br>
 
 <h2>Some Github Stats</h2>
 <span align="left">
