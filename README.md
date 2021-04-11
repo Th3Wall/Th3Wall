@@ -1,8 +1,8 @@
 # <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Davide</b>
 <br>
 
-<img align="left" src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Memoji.png" width="200"/>
-<p aligh="right">
+<img align="right" src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Memoji.png" width="200"/>
+<p aligh="left">
   <p>Hey there, welcome!</br>
   I'm Davide, Front End developer from <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/ItalyFlag.svg" width="14px"/> <b>Milan, Italy</b>.</p>
   	
