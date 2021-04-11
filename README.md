@@ -8,17 +8,19 @@
   	
   💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
   🌱 &nbsp;I'm on track for learning more about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a>, <a style="color:#764ABC" href="https://redux.js.org/" target="_blank"><u>Redux</u></a> and <a style="color:#000000" href="https://nextjs.org/" target="_blank"><u>NextJS</u></a>.\
+  🚧 &nbsp;I'm currently working on my personal project <a href="https://github.com/Th3Wall/Fakeflix" target="_blank"><u>Fakeflix</u></a>.\
   💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
 </p>
 <br><br>
 
-<h2>Things I code with</h2>
+<h2>👨🏻‍💻 &nbsp;Things I code with</h2>
 <p>
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
   <img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
   <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
@@ -35,7 +37,7 @@
   <img alt="WebStorm" src="https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white" />
 </p>
 
-<h2>Where to find me</h2>
+<h2>🌎 &nbsp;Where to find me</h2>
 <p>
   <a href="https://github.com/Th3Wall" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://codepen.io/th3wall" target="_blank"><img alt="Codepen" src="https://img.shields.io/badge/-Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
@@ -44,7 +46,7 @@
   <a href="https://www.instagram.com/davideemandelli/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-<h2>Some Github Stats</h2>
+<h2>📈 &nbsp;Some Github Stats</h2>
 <span align="left">
 
 ![Th3Wall's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Th3Wall&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
