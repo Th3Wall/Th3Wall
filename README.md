@@ -6,12 +6,12 @@
   <p>Hey there, welcome!</br>
   I'm Davide, Front End developer from <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/ItalyFlag.svg" width="14px"/> <b>Milan, Italy</b>.</p>
   	
-  💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+  💡 &nbsp;I like to explore new trends and learn new technologies.\
   🌱 &nbsp;I'm on track for learning more about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a>, <a style="color:#764ABC" href="https://redux.js.org/" target="_blank"><u>Redux</u></a> and <a style="color:#000000" href="https://nextjs.org/" target="_blank"><u>NextJS</u></a>.\
   🚧 &nbsp;I'm currently working on my personal project <a href="https://github.com/Th3Wall/Fakeflix" target="_blank"><u>Fakeflix</u></a>.\
-  💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
+  💬 &nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
 </p>
-<br><br>
+<br>
 
 <h2>👨🏻‍💻 &nbsp;Things I code with</h2>
 <p>
