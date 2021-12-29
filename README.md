@@ -51,6 +51,14 @@
   <a href="https://www.instagram.com/davideemandelli/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
+<h2>✍🏼 &nbsp;My latest blog articles</h2>
+<!-- HASHNODE_BLOG:START -->
+- [Proud to present you Fakeflix, a Netflix Clone built with React, Redux, Firebase & Framer Motion](https://th3wall.hashnode.dev/proud-to-present-you-fakeflix-a-netflix-clone-built-with-react-redux-firebase-and-framer-motion-ckw96xc1r0fx5e7s1e1uydcx2) <br/>
+- [How to easily get started with ThreeJS - Part 3](https://th3wall.hashnode.dev/how-to-easily-get-started-with-threejs-part-3-ckwuinjw400pipls1gnkxetx3) <br/>
+- [How to easily get started with ThreeJS - Part 2](https://th3wall.hashnode.dev/how-to-easily-get-started-with-threejs-part-2-ckwglyy3n00h82ts1bo9fa8xy) <br/>
+- [How to easily get started with ThreeJS - Part 1](https://th3wall.hashnode.dev/how-to-easily-get-started-with-threejs-part-1-ckwc4l23802ypxps1fm6mdi5s) <br/>
+<!-- HASHNODE_BLOG:END -->
+
 <h2>📈 &nbsp;Some Github Stats</h2>
 <span align="left">
 
@@ -59,11 +67,3 @@
 <span align="right">
 ![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Th3Wall&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
 </span>
-
-<h2>✍🏼 &nbsp;My latest blog articles</h2>
-<!-- HASHNODE_BLOG:START -->
-- [Proud to present you Fakeflix, a Netflix Clone built with React, Redux, Firebase & Framer Motion](https://th3wall.hashnode.dev/proud-to-present-you-fakeflix-a-netflix-clone-built-with-react-redux-firebase-and-framer-motion-ckw96xc1r0fx5e7s1e1uydcx2)
-- [How to easily get started with ThreeJS - Part 3](https://th3wall.hashnode.dev/how-to-easily-get-started-with-threejs-part-3-ckwuinjw400pipls1gnkxetx3)
-- [How to easily get started with ThreeJS - Part 2](https://th3wall.hashnode.dev/how-to-easily-get-started-with-threejs-part-2-ckwglyy3n00h82ts1bo9fa8xy)
-- [How to easily get started with ThreeJS - Part 1](https://th3wall.hashnode.dev/how-to-easily-get-started-with-threejs-part-1-ckwc4l23802ypxps1fm6mdi5s)
-<!-- HASHNODE_BLOG:END -->
