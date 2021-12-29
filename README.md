@@ -14,7 +14,7 @@
 </p>
 <br>
 
-<h2>👨🏻‍💻 &nbsp;Things I code with</h2>
+## 👨🏻‍💻 &nbsp;Things I code with ##
 <p>
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
@@ -41,7 +41,7 @@
   <img alt="WebStorm" src="https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white" />
 </p>
 
-<h2>🌎 &nbsp;Where to find me</h2>
+## 🌎 &nbsp;Where to find me ##
 <p>
   <a href="https://codepen.io/th3wall" target="_blank"><img alt="Codepen" src="https://img.shields.io/badge/-Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mandelli-davide/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -51,15 +51,15 @@
   <a href="https://www.instagram.com/davideemandelli/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-<h2>✍🏼 &nbsp;My latest blog articles</h2>
+## ✍🏼 &nbsp;My latest blog articles ##
 <!-- HASHNODE_BLOG:START -->
-- [Proud to present you Fakeflix, a Netflix Clone built with React, Redux, Firebase & Framer Motion](https://th3wall.hashnode.dev/proud-to-present-you-fakeflix-a-netflix-clone-built-with-react-redux-firebase-and-framer-motion-ckw96xc1r0fx5e7s1e1uydcx2) <br/>
-- [How to easily get started with ThreeJS - Part 3](https://th3wall.hashnode.dev/how-to-easily-get-started-with-threejs-part-3-ckwuinjw400pipls1gnkxetx3) <br/>
-- [How to easily get started with ThreeJS - Part 2](https://th3wall.hashnode.dev/how-to-easily-get-started-with-threejs-part-2-ckwglyy3n00h82ts1bo9fa8xy) <br/>
-- [How to easily get started with ThreeJS - Part 1](https://th3wall.hashnode.dev/how-to-easily-get-started-with-threejs-part-1-ckwc4l23802ypxps1fm6mdi5s) <br/>
+- [Proud to present you Fakeflix, a Netflix Clone built with React, Redux, Firebase & Framer Motion](https://th3wall.hashnode.dev/proud-to-present-you-fakeflix-a-netflix-clone-built-with-react-redux-firebase-and-framer-motion-ckw96xc1r0fx5e7s1e1uydcx2)
+- [How to easily get started with ThreeJS - Part 3](https://th3wall.hashnode.dev/how-to-easily-get-started-with-threejs-part-3-ckwuinjw400pipls1gnkxetx3)
+- [How to easily get started with ThreeJS - Part 2](https://th3wall.hashnode.dev/how-to-easily-get-started-with-threejs-part-2-ckwglyy3n00h82ts1bo9fa8xy)
+- [How to easily get started with ThreeJS - Part 1](https://th3wall.hashnode.dev/how-to-easily-get-started-with-threejs-part-1-ckwc4l23802ypxps1fm6mdi5s)
 <!-- HASHNODE_BLOG:END -->
 
-<h2>📈 &nbsp;Some Github Stats</h2>
+## 📈 &nbsp;Some Github Stats ##
 <span align="left">
 
 ![Th3Wall's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Th3Wall&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
