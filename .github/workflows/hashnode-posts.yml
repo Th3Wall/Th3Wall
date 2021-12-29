@@ -18,5 +18,6 @@ jobs:
         with:
           USERNAME: 'th3wall' # Hashnode Username
           COUNT: 5 # MAX Visisble
+          STYLE: "blog-grid"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
