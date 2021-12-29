@@ -16,8 +16,8 @@ jobs:
       - name: "📚  Hashnode Updater"
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
-          USERNAME: 'th3wall'
+          USERNAME: "th3wall"
           COUNT: 4
-          STYLE: "blog"
+          STYLE: "list"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
