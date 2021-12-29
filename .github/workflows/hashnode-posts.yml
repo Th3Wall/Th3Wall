@@ -13,11 +13,11 @@ jobs:
       - name: "📥  Fetching Repository Contents"
         uses: actions/checkout@main
 
-      - name: Hashnode Blog
-        uses: varunsridharan/action-hashnode-blog@1.1.1
+      - name: "📚  Hashnode Updater"
+        uses: "varunsridharan/action-hashnode-blog@main"
         with:
-          USERNAME: 'th3wall' # Hashnode Username
-          COUNT: 5 # MAX Visisble
+          USERNAME: 'th3wall'
+          COUNT: 4
           STYLE: "blog-grid"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
