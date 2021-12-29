@@ -18,5 +18,6 @@ jobs:
         with:
           USERNAME: 'th3wall'
           COUNT: 5
+          STYLE: "list-ordered"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
