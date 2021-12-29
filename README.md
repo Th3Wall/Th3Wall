@@ -53,11 +53,30 @@
 
 <h2>✍🏼 &nbsp;My latest blog articles</h2>
 <!-- HASHNODE_BLOG:START -->
-- [Proud to present you Fakeflix, a Netflix Clone built with React, Redux, Firebase & Framer Motion](https://th3wall.hashnode.dev/proud-to-present-you-fakeflix-a-netflix-clone-built-with-react-redux-firebase-and-framer-motion-ckw96xc1r0fx5e7s1e1uydcx2)
-- [How to easily get started with ThreeJS - Part 3](https://th3wall.hashnode.dev/how-to-easily-get-started-with-threejs-part-3-ckwuinjw400pipls1gnkxetx3)
-- [How to easily get started with ThreeJS - Part 2](https://th3wall.hashnode.dev/how-to-easily-get-started-with-threejs-part-2-ckwglyy3n00h82ts1bo9fa8xy)
-- [How to easily get started with ThreeJS - Part 1](https://th3wall.hashnode.dev/how-to-easily-get-started-with-threejs-part-1-ckwc4l23802ypxps1fm6mdi5s)
-- [Proud to present you Fakeflix, a Netflix Clone built with React, Redux, Firebase & Framer Motion](https://th3wall.hashnode.dev/proud-to-present-you-fakeflix-a-netflix-clone-built-with-react-redux-firebase-and-framer-motion-ckw96xc1r0fx5e7s1e1uydcx2)
+<table><tr><td><a href="https://th3wall.hashnode.dev/proud-to-present-you-fakeflix-a-netflix-clone-built-with-react-redux-firebase-and-framer-motion-ckw96xc1r0fx5e7s1e1uydcx2" title="Proud to present you Fakeflix, a Netflix Clone built with React, Redux, Firebase & Framer Motion"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1637499951574/muR0hv-Lf.gif" alt="Proud to present you Fakeflix, a Netflix Clone built with React, Redux, Firebase & Framer Motion"   /></a>
+<a href="https://th3wall.hashnode.dev/proud-to-present-you-fakeflix-a-netflix-clone-built-with-react-redux-firebase-and-framer-motion-ckw96xc1r0fx5e7s1e1uydcx2" title="Proud to present you Fakeflix, a Netflix Clone built with React, Redux, Firebase & Framer Motion"><strong>Proud to present you Fakeflix, a Netflix Clone built with React, Redux, Firebase & Framer Motion</strong></a>
+<div><strong>21 Nov 2021</strong> | <strong>Updated: 24 Nov 2021</strong></div>
+<br/> Hi guys, this is my first article here!
+I'm proud to present you my latest project: Fakeflix.
+https://github.com/Th3Wall/Fakeflix
+This summer I had a big honor: the GitHub repo has been selected and inserted in the trending repositories for five days...</td><td><a href="https://th3wall.hashnode.dev/how-to-easily-get-started-with-threejs-part-3-ckwuinjw400pipls1gnkxetx3" title="How to easily get started with ThreeJS - Part 3"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638755103529/dBHO10i7Y.gif" alt="How to easily get started with ThreeJS - Part 3"   /></a>
+<a href="https://th3wall.hashnode.dev/how-to-easily-get-started-with-threejs-part-3-ckwuinjw400pipls1gnkxetx3" title="How to easily get started with ThreeJS - Part 3"><strong>How to easily get started with ThreeJS - Part 3</strong></a>
+<div><strong>6 Dec 2021</strong></div>
+<br/> Hi guys, hope you are fine! 🙂
+I'm back after posting the second part of this series about how to get started on ThreeJS without pain.
+If you haven't done it yet, you can read the first and second part here 👇🏼
+https://th3wall.hashnode.dev/how-to-ea...</td></tr><tr><td><a href="https://th3wall.hashnode.dev/how-to-easily-get-started-with-threejs-part-2-ckwglyy3n00h82ts1bo9fa8xy" title="How to easily get started with ThreeJS - Part 2"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1637943692760/haraV-EGM.gif" alt="How to easily get started with ThreeJS - Part 2"   /></a>
+<a href="https://th3wall.hashnode.dev/how-to-easily-get-started-with-threejs-part-2-ckwglyy3n00h82ts1bo9fa8xy" title="How to easily get started with ThreeJS - Part 2"><strong>How to easily get started with ThreeJS - Part 2</strong></a>
+<div><strong>26 Nov 2021</strong> | <strong>Updated: 30 Nov 2021</strong></div>
+<br/> Hi guys, hope you are fine! :)
+I'm back after posting the first part of this series about how to get started on Three.js without pain.
+If you haven't done it yet, you can read the first part here 👇🏼
+https://th3wall.hashnode.dev/how-to-easily-get-st...</td><td><a href="https://th3wall.hashnode.dev/how-to-easily-get-started-with-threejs-part-1-ckwc4l23802ypxps1fm6mdi5s" title="How to easily get started with ThreeJS - Part 1"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1637679751883/ENQpjCZsY.gif" alt="How to easily get started with ThreeJS - Part 1"   /></a>
+<a href="https://th3wall.hashnode.dev/how-to-easily-get-started-with-threejs-part-1-ckwc4l23802ypxps1fm6mdi5s" title="How to easily get started with ThreeJS - Part 1"><strong>How to easily get started with ThreeJS - Part 1</strong></a>
+<div><strong>23 Nov 2021</strong> | <strong>Updated: 26 Nov 2021</strong></div>
+<br/> Hi guys, hope you are fine! :)
+Recently I came across a teaser video on my Twitter feed: it was a Prismic.io post of an interview with the great Bruno Simon. During the interview, he explains how to use ThreeJS to enhance a website with 3D elements.
+...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
 
 <h2>📈 &nbsp;Some Github Stats</h2>
