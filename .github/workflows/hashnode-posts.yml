@@ -17,7 +17,7 @@ jobs:
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
           USERNAME: 'th3wall'
-          COUNT: 6
-          STYLE: "blog-left"
+          COUNT: 4
+          STYLE: "blog"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
