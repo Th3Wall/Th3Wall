@@ -1,9 +1,9 @@
-name: "📚 Readme Updater for Hashnode Blog Posts"
+name: "📚 Blog Updater"
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # Runs Every Day
+    - cron: '0 0 * * *'
 
 jobs:
   update_blogs:
@@ -12,12 +12,11 @@ jobs:
     steps:
       - name: "📥  Fetching Repository Contents"
         uses: actions/checkout@main
-
+      
       - name: "📚  Hashnode Updater"
-        uses: varunsridharan/action-hashnode-blog@1.1.1
+        uses: "varunsridharan/action-hashnode-blog@main"
         with:
           USERNAME: 'th3wall'
           COUNT: 5
-          STYLE: 'list'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
