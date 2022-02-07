@@ -71,4 +71,5 @@
 
 ## 🫂 How to support me ##
 <a href="https://www.buymeacoffee.com/th3wall" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="170" ></a>
+<a href="https://www.buymeacryptocoffee.xyz/0x8b28b3a02e5f6738c4032b4c8136d25249766907" target="_blank"><img src="https://www.buymeacryptocoffee.xyz/_next/image?url=%2F_next%2Fstatic%2Fimage%2Fpublic%2Fembedbadge.c3d8c4bf5cf54409f43e2107e550bb11.svg&w=256&q=75" alt="Buy Me A Crypto Coffee" width="170" ></a>
 <a href="https://coindrop.to/th3wall" target="_blank"><img src="https://coindrop.to/embed-button.png" style="width:170px;" alt="Coindrop.to me"></img></a>
