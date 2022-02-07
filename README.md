@@ -68,3 +68,7 @@
 <span align="right">
 ![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Th3Wall&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
 </span>
+
+## 🫂 How to support me ##
+<a href="https://www.buymeacoffee.com/th3wall" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="170" ></a>
+<a href="https://coindrop.to/th3wall" target="_blank"><img src="https://coindrop.to/embed-button.png" style="width:170px;" alt="Coindrop.to me"></img></a>
