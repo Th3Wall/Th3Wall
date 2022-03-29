@@ -55,6 +55,7 @@
 
 ## ✍🏼 &nbsp;My latest blog articles ##
 <!-- HASHNODE_BLOG:START -->
+- [Moodflix - Your mood, Our suggestions](https://th3wall.hashnode.dev/moodflix-your-mood-our-suggestions-cl1bymc9j05bj6znv0jvch4zj)
 - [How to easily get started with ThreeJS - Part 3](https://th3wall.hashnode.dev/how-to-easily-get-started-with-threejs-part-3-ckwuinjw400pipls1gnkxetx3)
 - [How to easily get started with ThreeJS - Part 2](https://th3wall.hashnode.dev/how-to-easily-get-started-with-threejs-part-2-ckwglyy3n00h82ts1bo9fa8xy)
 - [How to easily get started with ThreeJS - Part 1](https://th3wall.hashnode.dev/how-to-easily-get-started-with-threejs-part-1-ckwc4l23802ypxps1fm6mdi5s)
