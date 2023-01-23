@@ -4,7 +4,7 @@
 <img align="right" src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Memoji.png" width="200"/>
 <p aligh="left">
   <p>Hey there, welcome!</br>
-  I'm Davide, Front End developer from <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Italy_Flag_Rounded.svg" width="14px"/> <b>Milan, Italy</b>.</p>
+  I'm Davide, Software Engineer from <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Italy_Flag_Rounded.svg" width="14px"/> <b>Milan, Italy</b>.</p>
   	
   💡 &nbsp;I like to explore new trends and learn new technologies.\
   🌱 &nbsp;I'm on track for learning more about <a style="color:#764ABC" href="https://www.typescriptlang.org/" target="_blank"><u>TypeScript</u></a> and <a style="color:#000000" href="https://nextjs.org/" target="_blank"><u>NextJS</u></a>.\
