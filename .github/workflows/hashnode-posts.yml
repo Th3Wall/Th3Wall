@@ -14,10 +14,11 @@ jobs:
         uses: actions/checkout@main
       
       - name: "📚  Hashnode Updater"
-        uses: "varunsridharan/action-hashnode-blog@main@1.2"
+        uses: varunsridharan/action-hashnode-blog@main@1.2
         with:
           USERNAME: "th3wall"
-          COUNT: 5
+          BLOG_URL: 'https://blog.th3wall.codes'
+          COUNT: 6
           STYLE: "list"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
