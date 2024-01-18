@@ -14,10 +14,10 @@ jobs:
         uses: actions/checkout@main
       
       - name: "📚  Hashnode Updater"
-        uses: varunsridharan/action-hashnode-blog@main@1.2
+        uses: "varunsridharan/action-hashnode-blog@main"
         with:
           USERNAME: "th3wall"
-          BLOG_URL: 'https://blog.th3wall.codes'
+          BLOG_URL: "https://blog.th3wall.codes"
           COUNT: 6
           STYLE: "list"
         env:
