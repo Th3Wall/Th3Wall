@@ -16,7 +16,7 @@ jobs:
       - name: '📚  Hashnode Blog Action'
         uses: 'Sachin-chaurasiya/hashnode-blog-action@main'
         with:
-          HASHNODE_PUBLICATION_NAME: "https://blog.th3wall.codes"
+          HASHNODE_PUBLICATION_NAME: "blog.th3wall.codes"
           POST_COUNT: 6
           FORMAT: 'list'
         env:
