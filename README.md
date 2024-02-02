@@ -58,11 +58,13 @@
 
 ## ✍🏼 &nbsp;My latest blog articles ##
 <!-- HASHNODE_BLOG:START -->
-- [Proud to present you Fakeflix, a Netflix Clone built with React, Redux, Firebase & Framer Motion](https://th3wall.hashnode.dev/proud-to-present-you-fakeflix-a-netflix-clone-built-with-react-redux-firebase-and-framer-motion-ckw96xc1r0fx5e7s1e1uydcx2)
-- [Codemotion Milan 2023: my first session in public](https://th3wall.hashnode.dev/codemotion-milan-2023-my-first-session-in-public-clp2jhtzc001j09l4c0d17o5z)
-- [Moodflix - Your mood, Our suggestions](https://th3wall.hashnode.dev/moodflix-your-mood-our-suggestions-cl1bymc9j05bj6znv0jvch4zj)
-- [How to easily get started with ThreeJS - Part 3](https://th3wall.hashnode.dev/how-to-easily-get-started-with-threejs-part-3-ckwuinjw400pipls1gnkxetx3)
-- [How to easily get started with ThreeJS - Part 2](https://th3wall.hashnode.dev/how-to-easily-get-started-with-threejs-part-2-ckwglyy3n00h82ts1bo9fa8xy)
+- [Codemotion Milan 2023: my first session in public](https://blog.th3wall.codes/codemotion-milan-2023-my-first-session-in-public)
+- [Moodflix - Your mood, Our suggestions](https://blog.th3wall.codes/moodflix-your-mood-our-suggestions)
+- [How to easily get started with ThreeJS - Part 3](https://blog.th3wall.codes/how-to-easily-get-started-with-threejs-part-3)
+- [How to easily get started with ThreeJS - Part 2](https://blog.th3wall.codes/how-to-easily-get-started-with-threejs-part-2)
+- [How to easily get started with ThreeJS - Part 1](https://blog.th3wall.codes/how-to-easily-get-started-with-threejs-part-1)
+- [Proud to present you Fakeflix, a Netflix Clone built with React, Redux, Firebase & Framer Motion](https://blog.th3wall.codes/proud-to-present-you-fakeflix-a-netflix-clone-built-with-react-redux-firebase-and-framer-motion)
+
 <!-- HASHNODE_BLOG:END -->
 
 ## 📈 &nbsp;Some Github Stats ##
