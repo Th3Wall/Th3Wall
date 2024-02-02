@@ -3,7 +3,7 @@ name: "📚 Blog Updater"
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *' # Runs Every Day
 
 jobs:
   update_blogs:
@@ -13,12 +13,12 @@ jobs:
       - name: "📥  Fetching Repository Contents"
         uses: actions/checkout@main
       
-      - name: "📚  Hashnode Updater"
-        uses: "varunsridharan/action-hashnode-blog@main"
+      - name: '📚  Hashnode Blog Action'
+        uses: 'Sachin-chaurasiya/hashnode-blog-action@main'
         with:
           USERNAME: "th3wall"
-          BLOG_URL: "https://blog.th3wall.codes"
-          COUNT: 6
-          STYLE: "list"
+          HASHNODE_PUBLICATION_NAME: "https://blog.th3wall.codes"
+          POST_COUNT: 6
+          FORMAT: 'list'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
